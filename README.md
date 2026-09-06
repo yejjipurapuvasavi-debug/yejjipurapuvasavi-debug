@@ -1,3 +1,8 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Yejjipurapu Vasavi" src="art/header-light.png">
+</picture>
+
 # Hey there, I'm Vasavi 👋
 
 ### 💻 CSE Student | AI & GenAI Enthusiast | Aspiring Developer
