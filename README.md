@@ -71,9 +71,9 @@ An AI-powered study assistant designed to help students learn more effectively.
 
 ## 📊 GitHub Stats
 
-[Vasavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejjipurupuvasavi&show_icons=true&theme=tokyonight)
+[Vasavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejjipurupuvasavi-debug&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yejjipurupuvasavi&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=yejjipurupuvasavi-debug&theme=tokyonight)
 
 
 ---
